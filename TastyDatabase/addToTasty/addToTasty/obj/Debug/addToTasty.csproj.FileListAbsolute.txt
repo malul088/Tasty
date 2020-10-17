@@ -1,0 +1,9 @@
+C:\racheli\TastyDatabase\addToTasty\addToTasty\bin\Debug\addToTasty.exe.config
+C:\racheli\TastyDatabase\addToTasty\addToTasty\bin\Debug\addToTasty.exe
+C:\racheli\TastyDatabase\addToTasty\addToTasty\bin\Debug\addToTasty.pdb
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.csprojAssemblyReference.cache
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.Properties.Resources.resources
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.csproj.GenerateResource.cache
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.exe
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.pdb
+C:\racheli\TastyDatabase\addToTasty\addToTasty\obj\Debug\addToTasty.addRecipe.resources
